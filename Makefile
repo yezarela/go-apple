@@ -1,6 +1,6 @@
 
 run: 
-	@echo "\nServing app"
+	@echo "\Running app"
 	@go run main.go
 
 test:

@@ -15,9 +15,6 @@ git clone https://github.com/yezarela/go-apple.git
 # Navigate to project directory
 cd go-apple
 
-# Install dependencies
-make deps
-
 # Run the application
 make run
 ```
